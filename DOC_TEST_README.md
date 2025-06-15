@@ -1,6 +1,6 @@
 # **Relatório do Trabalho Prático - Avaliador de Expressões Numéricas**
 
-**Aluno(s):** [Seu Nome Completo]  
+**Aluno(s):** ...
 **Disciplina:** Estrutura de Dados  
 **Professor:** Marcelo Eustáquio  
 **Data de Entrega:** 
@@ -16,7 +16,7 @@ Este trabalho desenvolve um avaliador de expressões matemáticas em linguagem C
 - Calcular valores numéricos
 - Suportar operações básicas e funções matemáticas
 
-**Repositório GitHub:** [inserir link completo]
+**Repositório GitHub:** link do repositorio .... 
 
 ---
 
