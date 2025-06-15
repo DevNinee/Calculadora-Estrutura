@@ -61,7 +61,7 @@ float potencia(float base, float exp) {
 
     float fracao = exp - (int)exp;
     if (fracao > 0.00001f) {
-        resultado *= raizQuadrada(base); // Correção: agora raizQuadrada foi definida antes
+        resultado *= raizQuadrada(base); // raizQuadrada 
     }
     return resultado;
 }
@@ -96,8 +96,6 @@ float tangente(float x) {
 float logaritmo10(float x) {
     if (x <= 0) return 0;
 
-    // Melhoria: log(x) = ln(x) / ln(10), usando série de Taylor para ln(x)
-    // ln(x) = 2 * [ (x-1)/(x+1) + 1/3 * ((x-1)/(x+1))^3 + 1/5 * ((x-1)/(x+1))^5 + ... ]
 
     float y = (x - 1) / (x + 1);
     float y2 = y * y;
