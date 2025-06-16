@@ -74,9 +74,9 @@ Foram implementadas três estruturas de pilha:
 **Resultado:** `24`
 
 ### **3.5 Teste n° 05**
-**Entrada:** `9 5 2 8 * 4 + * +`  
+**Entrada:** `9 5 2 8 4 * + * +`  
 **Saída Infixa:** `9 + (5 * (2 + 8 * 4))`  
-**Resultado:** `109`
+**Resultado:** `179`
 
 ### **3.6 Teste n° 06**
 **Entrada:** `2 3 + log 5 /`  
