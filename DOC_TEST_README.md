@@ -1,6 +1,7 @@
 # **Relatório do Trabalho Prático - Avaliador de Expressões Numéricas**
 
-**Aluno(s):** ...
+**Aluno(s):** Erick Ferreira Dos Santos, Mirella Bastos,Mariana Cardoso Honorato, Leticia Delmilio Soares.
+
 **Disciplina:** Estrutura de Dados  
 **Professor:** Marcelo Eustáquio  
 **Data de Entrega:** 
